@@ -1,0 +1,204 @@
+{
+  "currencies": [
+    {
+      "id": 69,
+      "name": "Euro",
+      "isoCode": "EUR"
+    },
+    {
+      "id": 70,
+      "name": "US Dollar",
+      "isoCode": "USD"
+    },
+    {
+      "id": 71,
+      "name": "Canadian Dollar",
+      "isoCode": "CAD"
+    },
+    {
+      "id": 72,
+      "name": "Japanese Yen",
+      "isoCode": "JPY"
+    },
+    {
+      "id": 73,
+      "name": "Swiss Franc",
+      "isoCode": "CHF"
+    },
+    {
+      "id": 74,
+      "name": "British Pound",
+      "isoCode": "GBP"
+    }
+  ],
+  "rates": [
+    {
+      "id": 115,
+      "base": {
+        "id": 69,
+        "name": "Euro",
+        "isoCode": "EUR"
+      },
+      "target": {
+        "id": 70,
+        "name": "US Dollar",
+        "isoCode": "USD"
+      },
+      "ratio": "1.3764"
+    },
+    {
+      "id": 116,
+      "base": {
+        "id": 70,
+        "name": "US Dollar",
+        "isoCode": "USD"
+      },
+      "target": {
+        "id": 69,
+        "name": "Euro",
+        "isoCode": "EUR"
+      },
+      "ratio": 0.7265329845975
+    },
+    {
+      "id": 117,
+      "base": {
+        "id": 69,
+        "name": "Euro",
+        "isoCode": "EUR"
+      },
+      "target": {
+        "id": 73,
+        "name": "Swiss Franc",
+        "isoCode": "CHF"
+      },
+      "ratio": 1.2079
+    },
+    {
+      "id": 118,
+      "base": {
+        "id": 73,
+        "name": "Swiss Franc",
+        "isoCode": "CHF"
+      },
+      "target": {
+        "id": 69,
+        "name": "Euro",
+        "isoCode": "EUR"
+      },
+      "ratio": 0.82788310290587
+    },
+    {
+      "id": 119,
+      "base": {
+        "id": 69,
+        "name": "Euro",
+        "isoCode": "EUR"
+      },
+      "target": {
+        "id": 74,
+        "name": "British Pound",
+        "isoCode": "GBP"
+      },
+      "ratio": 0.8731
+    },
+    {
+      "id": 120,
+      "base": {
+        "id": 74,
+        "name": "British Pound",
+        "isoCode": "GBP"
+      },
+      "target": {
+        "id": 69,
+        "name": "Euro",
+        "isoCode": "EUR"
+      },
+      "ratio": 1.1453441759249
+    },
+    {
+      "id": 121,
+      "base": {
+        "id": 70,
+        "name": "US Dollar",
+        "isoCode": "USD"
+      },
+      "target": {
+        "id": 72,
+        "name": "Japanese Yen",
+        "isoCode": "JPY"
+      },
+      "ratio": 76.72
+    },
+    {
+      "id": 122,
+      "base": {
+        "id": 72,
+        "name": "Japanese Yen",
+        "isoCode": "JPY"
+      },
+      "target": {
+        "id": 70,
+        "name": "US Dollar",
+        "isoCode": "USD"
+      },
+      "ratio": 0.01303441084463
+    },
+    {
+      "id": 123,
+      "base": {
+        "id": 73,
+        "name": "Swiss Franc",
+        "isoCode": "CHF"
+      },
+      "target": {
+        "id": 70,
+        "name": "US Dollar",
+        "isoCode": "USD"
+      },
+      "ratio": 1.1379
+    },
+    {
+      "id": 124,
+      "base": {
+        "id": 70,
+        "name": "US Dollar",
+        "isoCode": "USD"
+      },
+      "target": {
+        "id": 73,
+        "name": "Swiss Franc",
+        "isoCode": "CHF"
+      },
+      "ratio": 0.87881184638369
+    },
+    {
+      "id": 125,
+      "base": {
+        "id": 74,
+        "name": "British Pound",
+        "isoCode": "GBP"
+      },
+      "target": {
+        "id": 71,
+        "name": "Canadian Dollar",
+        "isoCode": "CAD"
+      },
+      "ratio": 1.5648
+    },
+    {
+      "id": 126,
+      "base": {
+        "id": 71,
+        "name": "Canadian Dollar",
+        "isoCode": "CAD"
+      },
+      "target": {
+        "id": 74,
+        "name": "British Pound",
+        "isoCode": "GBP"
+      },
+      "ratio": 0.63905930470348
+    }
+  ]
+}
